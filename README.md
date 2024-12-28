@@ -2,7 +2,9 @@
 This repository contains the layout and components for a mobile application. The goal of this app is to help users plan and manage events with a delightful user experience, beautiful visual design, and an easy-to-navigate interface.
 🖼 Project Preview
 EVENT MANAGEMENT APP DESIGN
-![iPhone 16](https://github.com/user-attachments/assets/03c7c285-303d-40db-8bce-97d0db82d4cb)
+
+![iPhone 16](https://github.com/user-attachments/assets/ebeb6f0e-aed8-4ca0-b4ea-1ac9e38d0e41)
+
 ![1](https://github.com/user-attachments/assets/65c97d4c-dfd2-46b3-96a4-23a212ee1453)
 
 🔧 Project Overview
